@@ -92,7 +92,33 @@
         "CSS",
         "JavaScript"
       ],
-      "featured": true
+      "featured": true,
+      "href": "finance-dashboard-lime-one.vercel.app",
+      "repo": "https://github.com/imdhanush07/Finance-dashboard"
+    },
+    {
+      "title": "Book Data ",
+      "description": "Developed a Book Management System using Java and Spring Boot to store and manage book details, prices, and inventory quantities. Implemented CRUD operations for efficient book record management and stock tracking.",
+      "stack": [
+        "Spring Boot",
+        "MySQL",
+        "HTML",
+        "CSS"
+      ],
+      "featured": true,
+      "repo": "https://github.com/imdhanush07/BookData"
+    },
+    {
+      "title": "Photography Studio",
+      "description": "Developed a Photography Studio website to showcase photography services, display photo galleries, and highlight studio packages. Designed a responsive and user-friendly interface to enhance the customer experience and promote studio services.",
+      "stack": [
+        "Front-end: HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "featured": true,
+      "href": "studio-sepia-one.vercel.app",
+      "repo": "https://github.com/imdhanush07/Studio"
     }
   ],
   "education": [
@@ -114,12 +140,20 @@
   ],
   "certifications": [
     {
-      "title": "IBM AI Certification",
+      "title": "Marcello Tech Internship Completion",
+      "issuer": "Marcello Tech"
+    },
+    {
+      "title": "IBM Artificial Intelligence",
       "issuer": "IBM"
     },
     {
-      "title": "Marcello Tech Internship Completion",
-      "issuer": "Marcello Tech"
+      "title": "IBM Getting Started with AI",
+      "issuer": "IBM"
+    },
+    {
+      "title": "IBM Journey to Cloud: Envisioning Your Solution",
+      "issuer": "IBM"
     }
   ],
   "careerGoals": [
@@ -260,7 +294,7 @@
       "title": "Contact",
       "navLabel": "Contact",
       "enabled": true,
-      "showInNavbar": true,
+      "showInNavbar": false,
       "order": 10,
       "component": "Contact"
     }
