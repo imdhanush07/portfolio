@@ -201,10 +201,10 @@
   "sections": [
     {
       "id": "hero",
-      "title": "Hero",
+      "title": "Home",
       "navLabel": "Home",
       "enabled": true,
-      "showInNavbar": false,
+      "showInNavbar": true,
       "order": 0,
       "component": "Hero"
     },
@@ -294,7 +294,7 @@
       "title": "Contact",
       "navLabel": "Contact",
       "enabled": true,
-      "showInNavbar": false,
+      "showInNavbar": true,
       "order": 10,
       "component": "Contact"
     }
