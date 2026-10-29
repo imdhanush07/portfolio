@@ -1,0 +1,268 @@
+{
+  "profile": {
+    "name": "Dhanush Raj P",
+    "headline": "Python Full Stack Developer",
+    "roles": [
+      "Python Full Stack Developer",
+      "Computer Science Engineering Student",
+      "Backend & AI Enthusiast"
+    ],
+    "summary": "I'm a Computer Science and Engineering student building a strong foundation in Python, Java and web development. I enjoy building scalable web applications, learning modern backend technologies, and continuously improving my software engineering skills.",
+    "location": "Tamil Nadu, India",
+    "email": "dhanushrajpro@gmail.com",
+    "phone": "+91 7358816874",
+    "avatar": "/uploads/profile-mvt3mf2b.png",
+    "availability": "Open to Full Stack & Backend opportunities",
+    "aboutExtra": "My long-term goal is to grow from a Python Full Stack Developer into Backend Engineering, Cloud Computing, and AI Engineering — building a strong foundation now so I can take on more complex, large-scale systems later."
+  },
+  "skills": [
+    {
+      "name": "Python",
+      "category": "Programming"
+    },
+    {
+      "name": "Java",
+      "category": "Programming"
+    },
+    {
+      "name": "JavaScript",
+      "category": "Programming"
+    },
+    {
+      "name": "HTML",
+      "category": "Frontend"
+    },
+    {
+      "name": "CSS",
+      "category": "Frontend"
+    },
+    {
+      "name": "Git",
+      "category": "Tools"
+    },
+    {
+      "name": "GitHub",
+      "category": "Tools"
+    },
+    {
+      "name": "Canva",
+      "category": "Tools"
+    },
+    {
+      "name": "Microsoft Excel",
+      "category": "Tools"
+    },
+    {
+      "name": "English",
+      "category": "Languages"
+    },
+    {
+      "name": "Tamil",
+      "category": "Languages"
+    }
+  ],
+  "learningJourney": [
+    {
+      "name": "Python Full Stack Development",
+      "description": "Building end-to-end applications by combining Python backend services with modern frontend practices."
+    },
+    {
+      "name": "Django",
+      "description": "Developing production-style backend services with dependency injection and convention-based configuration."
+    },
+    {
+      "name": "REST APIs",
+      "description": "Designing and consuming HTTP APIs that connect frontend applications to backend logic."
+    },
+    {
+      "name": "SQL",
+      "description": "Writing queries to model, store, and retrieve structured data efficiently."
+    },
+    {
+      "name": "Testing and Deployment",
+      "description": "Deploy on Cloud. Make your app live and production ready"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Finance Management Web Application",
+      "description": "A finance management web application that helps users organize and manage their financial records, built from the ground up with core web technologies.",
+      "stack": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "featured": true
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.E. Computer Science and Engineering",
+      "institution": "Roever Engineering College",
+      "location": "Perambalur, Tamil Nadu",
+      "period": "Expected Graduation: 2027",
+      "detail": "CGPA: 7.8"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Intern",
+      "organization": "Marcello Tech",
+      "period": "Internship",
+      "description": "Gained hands-on, real-world experience applying software development skills in a professional setting."
+    }
+  ],
+  "certifications": [
+    {
+      "title": "IBM AI Certification",
+      "issuer": "IBM"
+    },
+    {
+      "title": "Marcello Tech Internship Completion",
+      "issuer": "Marcello Tech"
+    }
+  ],
+  "careerGoals": [
+    {
+      "stage": "Now",
+      "title": "Python Full Stack Developer",
+      "description": "Building strong fundamentals across Python, Django, REST APIs, and full stack web development.",
+      "current": true
+    },
+    {
+      "stage": "Next",
+      "title": "Backend Engineer",
+      "description": "Deepening backend expertise — system design, databases, and scalable service architecture.",
+      "current": false
+    },
+    {
+      "stage": "Future",
+      "title": "Cloud & AI Engineer",
+      "description": "Growing into cloud computing and AI engineering, combining backend strength with intelligent systems.",
+      "current": false
+    }
+  ],
+  "social": [
+    {
+      "label": "GitHub",
+      "href": "https://github.com/imdhanush07",
+      "icon": "github"
+    },
+    {
+      "label": "LinkedIn",
+      "href": "https://linkedin.com/in/dhanushraj07",
+      "icon": "linkedin"
+    },
+    {
+      "label": "Email",
+      "href": "dhanushrajpro@gmail.com",
+      "icon": "mail"
+    },
+    {
+      "label": "Phone",
+      "href": "tel:+917358816874",
+      "icon": "phone"
+    }
+  ],
+  "sections": [
+    {
+      "id": "hero",
+      "title": "Hero",
+      "navLabel": "Home",
+      "enabled": true,
+      "showInNavbar": false,
+      "order": 0,
+      "component": "Hero"
+    },
+    {
+      "id": "about",
+      "title": "About",
+      "navLabel": "About",
+      "enabled": true,
+      "showInNavbar": true,
+      "order": 1,
+      "component": "About"
+    },
+    {
+      "id": "skills",
+      "title": "Skills",
+      "navLabel": "Skills",
+      "enabled": true,
+      "showInNavbar": true,
+      "order": 2,
+      "component": "Skills"
+    },
+    {
+      "id": "journey",
+      "title": "Learning Journey",
+      "navLabel": "Journey",
+      "enabled": true,
+      "showInNavbar": true,
+      "order": 3,
+      "component": "LearningJourney"
+    },
+    {
+      "id": "projects",
+      "title": "Projects",
+      "navLabel": "Projects",
+      "enabled": true,
+      "showInNavbar": true,
+      "order": 4,
+      "component": "Projects"
+    },
+    {
+      "id": "education",
+      "title": "Education",
+      "navLabel": "Education",
+      "enabled": true,
+      "showInNavbar": true,
+      "order": 5,
+      "component": "Education"
+    },
+    {
+      "id": "internship",
+      "title": "Internship",
+      "navLabel": "Internship",
+      "enabled": true,
+      "showInNavbar": false,
+      "order": 6,
+      "component": "Internship"
+    },
+    {
+      "id": "certifications",
+      "title": "Certifications",
+      "navLabel": "Certifications",
+      "enabled": true,
+      "showInNavbar": false,
+      "order": 7,
+      "component": "Certifications"
+    },
+    {
+      "id": "github",
+      "title": "GitHub Highlights",
+      "navLabel": "GitHub",
+      "enabled": true,
+      "showInNavbar": false,
+      "order": 8,
+      "component": "GithubHighlights"
+    },
+    {
+      "id": "careerGoals",
+      "title": "Career Goals",
+      "navLabel": "Goals",
+      "enabled": true,
+      "showInNavbar": false,
+      "order": 9,
+      "component": "CareerGoals"
+    },
+    {
+      "id": "contact",
+      "title": "Contact",
+      "navLabel": "Contact",
+      "enabled": true,
+      "showInNavbar": true,
+      "order": 10,
+      "component": "Contact"
+    }
+  ]
+}
